@@ -1,0 +1,84 @@
+h1{
+    background-color: pink;
+    width: 100%;
+    position: fixed;
+    top: -22px;
+    right: 0px;
+    left: 0px;
+    z-index: 999;
+    text-align: center;
+}
+#image{
+    position: absolute;
+    top: 80px;
+    display: inline;
+    
+}
+
+#img{
+    position: absolute;
+    top: 280px;
+    width: 270px;
+    height: 187px;
+    display: inline;
+}
+
+#images{
+    position: absolute;
+    top: 530px;
+    width: 270px;
+    height: 187px;
+    display: inline;
+}
+
+#b4{
+    position: absolute;
+    top: 730px;
+    width: 270px;
+    height: 187px;
+    display: inline;
+
+}
+
+    #b{
+        position: relative;
+        top: 73px;
+        right: 3px;
+        width: 270px;
+        height: 187px;
+        float: right;
+    }
+
+    #b1{
+        position: relative;
+        top: 270px;
+        right: -268px;
+        width: 270px;
+        height: 187px;
+        float: right;
+    }
+
+    #b2{
+        position: relative;
+        top: 520px;
+        right: -540px;
+        width: 270px;
+        height: 187px;
+        float: right;
+    }
+
+    #b5{
+        position: relative;
+        bottom: -720px ;
+        right: -810px;
+        width: 270px;
+        height: 187px;
+        float: right;
+    }
+    #b3{
+        position:absolute;
+        width: 30%;
+        left: 35%;
+        top: 45%;
+        border-radius: 10px;
+    }
